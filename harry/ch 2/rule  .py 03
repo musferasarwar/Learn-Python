@@ -1,0 +1,13 @@
+# we get tish types of name 
+
+a = 1 
+
+aaaa =123
+
+musfera = 213
+
+_musfera = 1453
+
+# @musfera = 182  invalid due to @ symbol 
+
+# mus@fera = is invalid  due to @ symbol

@@ -1,0 +1,9 @@
+a = 1 # a is an integer 
+
+b = 5.22 # b is a floating point number 
+
+c = "musfera "# c is a string
+
+d = False # D is a boolean variable 
+
+e = "none "  # none is a none types of vairable 
